@@ -66,8 +66,7 @@ Analysis of coffee sales, broker and buyer performance, and grade trends. The da
 
 \*\*Screenshots:\*\*  
 
-\- !\[Coffee Dashboard Example](Coffee\_Performance\_Dashboard/Screenshots/coffee\_dashboard.png)
-
+![Coffee Performance Dashboard](Coffee_Performance_Dashboard/Screenshots/coffee_dashboard.png)
 
 
 ---
@@ -88,7 +87,7 @@ Payroll and employee performance dashboard. Includes salary calculations, deduct
 
 \*\*Screenshots:\*\*  
 
-\- !\[HR Dashboard Example](HR\_Dashboard/Screenshots/hr\_dashboard.png)
+![HR Dashboard](HR_Dashboard/Screenshots/hr_dashboard.png)
 
 
 
@@ -110,7 +109,7 @@ Sales and inventory analytics for a supermarket. Tracks product performance, rev
 
 \*\*Screenshots:\*\*  
 
-\- !\[Supermarket Dashboard Example](Supermarket\_Dashboard/Screenshots/supermarket\_dashboard.png)
+![Supermarket Dashboard](Supermarket_Dashboard/Screenshots/supermarket_dashboard.png)
 
 
 
