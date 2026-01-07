@@ -22,7 +22,8 @@ Analysis of coffee sales, broker and buyer performance, and grade trends. The da
 
 \*\*Screenshots:\*\*  
 
-![Coffee Performance Dashboard](Coffee_Performance_Dashboard/Screenshots/coffee_dashboard.png)
+![Coffee Performance Dashboard](Coffee_Performance_Dashboard/screenshots/coffee_dashboard.png)
+
 
 
 ---
@@ -43,7 +44,8 @@ Payroll and employee performance dashboard. Includes salary calculations, deduct
 
 \*\*Screenshots:\*\*  
 
-![HR Dashboard](HR_Dashboard/Screenshots/hr_dashboard.png)
+![HR Dashboard](HR_Dashboard/screenshots/hr_dashboard.png)
+
 
 
 
