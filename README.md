@@ -1,4 +1,4 @@
-\# Analytics Portfolio
+\#Analytics Portfolio
 
 
 
@@ -6,9 +6,9 @@ This portfolio contains several data analytics dashboards and projects created u
 
 
 
-\## Projects
+\##Projects
 
-\### 1. Coffee Performance Dashboard
+\###1. Coffee Performance Dashboard
 
 \*\*Description:\*\*  
 
