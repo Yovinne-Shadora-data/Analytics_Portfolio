@@ -10,7 +10,7 @@ This Power BI dashboard tracks supermarket sales, inventory, and performance met
 
 
 
-!\[Supermarket Dashboard Screenshot](screenshots/supermarket\_dashboard.png)
+![Supermarket Dashboard](Supermarket_Dashboard/Screenshots/supermarket_dashboard.png)
 
 
 
