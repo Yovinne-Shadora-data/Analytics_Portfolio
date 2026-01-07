@@ -65,7 +65,8 @@ Sales and inventory analytics for a supermarket. Tracks product performance, rev
 
 \*\*Screenshots:\*\*  
 
-![Supermarket Dashboard](Supermarket_Dashboard/Screenshots/supermarket_dashboard.png)
+![Supermarket Dashboard](Supermarket_Dashboard/screenshots/supermarket_dashboard.png)
+
 
 
 
