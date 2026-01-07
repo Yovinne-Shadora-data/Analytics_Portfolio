@@ -10,8 +10,7 @@ This Power BI dashboard analyzes coffee sales and performance across brokers, bu
 
 
 
-!\[Coffee Dashboard Screenshot](screenshots/coffee\_dashboard.png)
-
+![Coffee Performance Dashboard](Coffee_Performance_Dashboard/Screenshots/coffee_dashboard.png)
 
 
 \## Tools Used
