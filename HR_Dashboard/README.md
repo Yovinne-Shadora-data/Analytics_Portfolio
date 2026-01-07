@@ -10,7 +10,8 @@ This dashboard shows HR metrics such as employee distribution, performance trend
 
 
 
-!\[HR Dashboard Screenshot](screenshots/hr\_dashboard.png)
+![HR Dashboard Screenshot](HR_Dashboard/Screenshots/hr_dashboard.png)
+
 
 
 
